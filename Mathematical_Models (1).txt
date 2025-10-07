@@ -1,0 +1,20 @@
+MODELOS MATEMÁTICOS IMPLEMENTADOS
+==================================================
+
+1. TIEMPO APLICADO:
+t_applied = t_event × (1 + z) + d/c
+• t_event: tiempo local del evento
+• z: corrimiento al rojo cosmológico
+• d: distancia al observador
+• c: velocidad de la luz
+
+2. EVOLUCIÓN DE MASA PBH:
+M(t) = M₀ × (1 - t/τ)^(1/3)
+τ = 5120πG²M₀³/(ħc⁴)
+
+3. TEMPERATURA HAWKING:
+T_H = ħc³/(8πGk_BM)
+
+4. ECUACIONES DE DENSIDAD:
+dρ_DM/dt = κρ_DM × (GM/(rc²)) × damping_DM
+dρ_DE/dt = ηρ_DM × (GM/(rc²)) × damping_DE

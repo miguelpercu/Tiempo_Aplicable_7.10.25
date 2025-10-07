@@ -1,0 +1,26 @@
+======================================================================
+INFORME EJECUTIVO - SIMULACIÓN DE AGUJEROS NEGROS PRIMORDIALES
+======================================================================
+
+FECHA DE SIMULACIÓN: 2025-10-06 23:29:03
+DIRECTORIO DE RESULTADOS: PBH_Complete_Analysis_20251006_232859
+
+RESULTADOS PRINCIPALES:
+----------------------------------------
+Masa inicial PBH: 1.000000e+12 kg
+Masa final PBH: 9.919416e+11 kg
+Cambio de masa: 0.805837%
+Temperatura Hawking inicial: 1.229e+11 K
+Temperatura Hawking final: 1.239e+11 K
+Cambio densidad materia oscura: 5.11%
+Cambio densidad energía oscura: 1.02%
+
+IMPACTO EN CMB:
+----------------------------------------
+f_PBH = 1.0e-06: y = 1.09e-28, Δx_e = 1.03e-28
+f_PBH = 1.0e-03: y = 1.09e-25, Δx_e = 1.03e-25
+f_PBH = 1.0e-01: y = 1.09e-23, Δx_e = 1.03e-23
+f_PBH = 5.0e-01: y = 5.45e-23, Δx_e = 5.15e-23
+f_PBH = 1.0e+00: y = 1.09e-22, Δx_e = 1.03e-22
+
+CONCLUSIÓN: Impacto despreciable bajo restricciones realistas de densidad.

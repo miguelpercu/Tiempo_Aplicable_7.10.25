@@ -1,0 +1,33 @@
+{
+  "simulation_parameters": {
+    "timestamp": "20251006_232859",
+    "time_points": 1000,
+    "max_time": 1e+16,
+    "redshift": 1089
+  },
+  "physical_constants": {
+    "G": 6.6743e-11,
+    "c": 300000000.0,
+    "hbar": 1.0545718e-34,
+    "k_B": 1.380649e-23,
+    "sigma_sb": 5.670374e-08
+  },
+  "cosmological_parameters": {
+    "rho_lambda": 1e-10,
+    "rho_crit": 1e-26,
+    "rho_0": 100000000.0,
+    "rho_max": 5.16e+96,
+    "z": 1089,
+    "d": 300000000.0
+  },
+  "pbh_parameters": {
+    "M_0": 1000000000000.0,
+    "tau": 4.17e+17,
+    "t_max": 1e+16,
+    "alpha": 0.1,
+    "kappa": 1e-11,
+    "eta": 2e-30,
+    "beta_0": 0.01,
+    "gamma": 0.05
+  }
+}

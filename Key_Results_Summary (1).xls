@@ -1,0 +1,10 @@
+Parameter,Value
+Initial PBH Mass,1.000000e+12 kg
+Final PBH Mass,9.919416e+11 kg
+Mass Change,0.805837%
+Initial Hawking Temperature,1.229e+11 K
+Final Hawking Temperature,1.239e+11 K
+Temperature Change,0.812383%
+DM Density Change,5.11%
+DE Density Change,1.02%
+Simulation Duration,1.00e+16 s
